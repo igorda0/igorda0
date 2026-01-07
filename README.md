@@ -5,7 +5,7 @@
 ### 🌱 About Me:
 - 👨‍🌾 **Agronomist Engineer** exploring the intersection of Agriculture and Technology.
 - 🎓 **MSc in Animal Science** | Currently a **PhD Candidate** in Animal Science.
-- 📊 Focused on applying **Data Science** (Python, SQL, R) to optimize Animal Production and Research.
+- 📊 Focused on applying **Data Science** (Python, SQL, R) to optimize Research.
 - 🎂 26 years old from Brazil 🇧🇷.
 
 ### 🛠 Main skills:
