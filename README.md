@@ -14,12 +14,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-### 📈 GitHub Stats:
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorda0&show_icons=true&theme=highcontrast&icon_color=32CD32&title_color=32CD32" />
-</p>
 
 ### 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-rodrigues-waltrick)
